@@ -1,2 +1,5 @@
-pytest>=8.0,<9.0
-jsonschema>=4.20,<5.0
+numpy
+scikit-learn
+joblib
+mediapipe
+opencv-python
