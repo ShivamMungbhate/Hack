@@ -1,0 +1,338 @@
+[
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__CISLR__00016__Cgs1MibMXJ0.mp4",
+    "detected_frames": 41,
+    "total_frames": 106
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00082__Eat__session112__clip008.mp4",
+    "detected_frames": 43,
+    "total_frames": 160
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00109__Eat__session150__clip002.mp4",
+    "detected_frames": 44,
+    "total_frames": 119
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00136__Eat__session132__clip022.mp4",
+    "detected_frames": 61,
+    "total_frames": 195
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00163__Eat__session110__clip005.mp4",
+    "detected_frames": 27,
+    "total_frames": 93
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00190__Eat__session135__clip033.mp4",
+    "detected_frames": 54,
+    "total_frames": 132
+  },
+  {
+    "label": "EAT",
+    "video": "data\\isl-isolated-8words\\eat\\eat__ISL500__00217__Eat__session153__clip010.mp4",
+    "detected_frames": 37,
+    "total_frames": 164
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__CISLR__00039__PQoocuBF2f8_1.mp4",
+    "detected_frames": 36,
+    "total_frames": 76
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00086__Go__session118__clip011.mp4",
+    "detected_frames": 48,
+    "total_frames": 163
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00113__Go__session160__clip026.mp4",
+    "detected_frames": 30,
+    "total_frames": 62
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00140__Go__session10__clip004.mp4",
+    "detected_frames": 55,
+    "total_frames": 222
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00167__Go__session103__clip023.mp4",
+    "detected_frames": 29,
+    "total_frames": 74
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00194__Go__session160__clip002.mp4",
+    "detected_frames": 41,
+    "total_frames": 119
+  },
+  {
+    "label": "GO",
+    "video": "data\\isl-isolated-8words\\go\\go__ISL500__00221__Go__session109__clip032.mp4",
+    "detected_frames": 35,
+    "total_frames": 146
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00566__MVI_0029.mp4",
+    "detected_frames": 76,
+    "total_frames": 76
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00567__MVI_0030.mp4",
+    "detected_frames": 89,
+    "total_frames": 89
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00568__MVI_0031.mp4",
+    "detected_frames": 78,
+    "total_frames": 78
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00569__MVI_0032.mp4",
+    "detected_frames": 73,
+    "total_frames": 73
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00570__MVI_0037.mp4",
+    "detected_frames": 59,
+    "total_frames": 59
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__INCLUDE__00571__MVI_0038.mp4",
+    "detected_frames": 67,
+    "total_frames": 67
+  },
+  {
+    "label": "HELLO",
+    "video": "data\\isl-isolated-8words\\hello\\hello__ISL500__00087__Hello__session101__clip021.mp4",
+    "detected_frames": 42,
+    "total_frames": 162
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__CISLR__00018__E91cfQBn8_4_1.mp4",
+    "detected_frames": 53,
+    "total_frames": 90
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00088__Help__session111__clip022.mp4",
+    "detected_frames": 55,
+    "total_frames": 170
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00115__Help__session155__clip011.mp4",
+    "detected_frames": 51,
+    "total_frames": 84
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00142__Help__session136__clip019.mp4",
+    "detected_frames": 56,
+    "total_frames": 174
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00169__Help__session105__clip013.mp4",
+    "detected_frames": 32,
+    "total_frames": 80
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00196__Help__session144__clip002.mp4",
+    "detected_frames": 52,
+    "total_frames": 134
+  },
+  {
+    "label": "HELP",
+    "video": "data\\isl-isolated-8words\\help\\help__ISL500__00223__Help__session110__clip001.mp4",
+    "detected_frames": 52,
+    "total_frames": 175
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__CISLR__00015__CXEDTo1PXCg.mp4",
+    "detected_frames": 42,
+    "total_frames": 94
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00092__No__session104__clip019.mp4",
+    "detected_frames": 49,
+    "total_frames": 159
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00119__No__session161__clip025.mp4",
+    "detected_frames": 37,
+    "total_frames": 70
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00146__No__session107__clip008.mp4",
+    "detected_frames": 73,
+    "total_frames": 200
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00173__No__session110__clip018.mp4",
+    "detected_frames": 19,
+    "total_frames": 62
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00200__No__session162__clip014.mp4",
+    "detected_frames": 48,
+    "total_frames": 129
+  },
+  {
+    "label": "NO",
+    "video": "data\\isl-isolated-8words\\no\\no__ISL500__00227__No__session143__clip002.mp4",
+    "detected_frames": 48,
+    "total_frames": 153
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__CISLR__00065__iGDJKo1-w5k.mp4",
+    "detected_frames": 49,
+    "total_frames": 100
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00093__Please__session104__clip016.mp4",
+    "detected_frames": 50,
+    "total_frames": 162
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00120__Please__session106__clip004.mp4",
+    "detected_frames": 46,
+    "total_frames": 85
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00147__Please__session111__clip009.mp4",
+    "detected_frames": 62,
+    "total_frames": 190
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00174__Please__session107__clip001.mp4",
+    "detected_frames": 28,
+    "total_frames": 75
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00201__Please__session117__clip014.mp4",
+    "detected_frames": 54,
+    "total_frames": 150
+  },
+  {
+    "label": "PLEASE",
+    "video": "data\\isl-isolated-8words\\please\\please__ISL500__00228__Please__session105__clip001.mp4",
+    "detected_frames": 41,
+    "total_frames": 168
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__CISLR__00010__5FSC6Og1RBQ_2.mp4",
+    "detected_frames": 20,
+    "total_frames": 78
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00103__Water__session117__clip006.mp4",
+    "detected_frames": 49,
+    "total_frames": 155
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00130__Water__session158__clip023.mp4",
+    "detected_frames": 28,
+    "total_frames": 56
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00157__Water__session102__clip018.mp4",
+    "detected_frames": 61,
+    "total_frames": 182
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00184__Water__session121__clip007.mp4",
+    "detected_frames": 29,
+    "total_frames": 95
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00211__Water__session109__clip006.mp4",
+    "detected_frames": 52,
+    "total_frames": 138
+  },
+  {
+    "label": "WATER",
+    "video": "data\\isl-isolated-8words\\water\\water__ISL500__00238__Water__session104__clip017.mp4",
+    "detected_frames": 42,
+    "total_frames": 159
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__CISLR__00033__LAT-u9Ww5ZU.mp4",
+    "detected_frames": 43,
+    "total_frames": 103
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00106__Yes__session105__clip014.mp4",
+    "detected_frames": 49,
+    "total_frames": 163
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00133__Yes__session140__clip009.mp4",
+    "detected_frames": 72,
+    "total_frames": 150
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00160__Yes__session114__clip001.mp4",
+    "detected_frames": 63,
+    "total_frames": 151
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00187__Yes__session105__clip015.mp4",
+    "detected_frames": 33,
+    "total_frames": 79
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00214__Yes__session114__clip002.mp4",
+    "detected_frames": 62,
+    "total_frames": 158
+  },
+  {
+    "label": "YES",
+    "video": "data\\isl-isolated-8words\\yes\\yes__ISL500__00241__Yes__session112__clip005.mp4",
+    "detected_frames": 46,
+    "total_frames": 175
+  }
+]

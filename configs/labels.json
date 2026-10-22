@@ -1,0 +1,28 @@
+
+{
+  "version": 1,
+  "idle_label": "IDLE",
+  "labels": [
+    {"id": 0, "name": "IDLE"},
+    {"id": 1, "name": "HELLO"},
+    {"id": 2, "name": "THANK-YOU"},
+    {"id": 3, "name": "PLEASE"},
+    {"id": 4, "name": "YES"},
+    {"id": 5, "name": "NO"},
+    {"id": 6, "name": "HELP"},
+    {"id": 7, "name": "NAME"},
+    {"id": 8, "name": "ME"},
+    {"id": 9, "name": "YOU"},
+    {"id": 10, "name": "WATER"},
+    {"id": 11, "name": "FOOD"},
+    {"id": 12, "name": "GOOD"},
+    {"id": 13, "name": "SORRY"},
+    {"id": 14, "name": "STOP"},
+    {"id": 15, "name": "WHERE"},
+    {"id": 16, "name": "WHAT"},
+    {"id": 17, "name": "HOW"},
+    {"id": 18, "name": "WANT"},
+    {"id": 19, "name": "NEED"},
+    {"id": 20, "name": "FINISHED"}
+  ]
+}
